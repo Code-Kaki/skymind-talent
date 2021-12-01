@@ -2,7 +2,7 @@
 
 #Welcome to Skymind Education Group!
 
-Visit us at [SEG](http://www.skymind.global)
+Visit our website at [SEG](http://www.skymind.global)
 <!--
 **skymind-talent/skymind-talent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
